@@ -5,7 +5,7 @@
 
 Apasionado por crear experiencias web modernas, accesibles y optimizadas. Concibo el desarrollo como un videojuego donde cada nueva tecnología dominada es un *level up* y cada proyecto finalizado es un trofeo.
 
-[Portfolio](https://yoshiiistm13.github.io/Lazy-Tea-Boba-Shop-Landing-Page/) • [LinkedIn](https://www.linkedin.com/in/joshua-abraham-hernandez-web-dev/) • [Email](yoshiiistm.13@gmail.com) • [GitHub](https://github.com/yoshiiistm13)
+[Portfolio](https://yoshiiistm13.github.io/Lazy-Tea-Boba-Shop-Landing-Page/) • [LinkedIn](https://www.linkedin.com/in/joshua-abraham-hernandez-web-dev/) • [Email](mailto:yoshiiistm.13@gmail.com) • [GitHub](https://github.com/yoshiiistm13)
 
 ---
 
