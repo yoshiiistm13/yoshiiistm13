@@ -1,3 +1,6 @@
+<img width="1585" height="396" alt="image" src="https://github.com/user-attachments/assets/56ee0054-a20d-4313-87b8-82c3812f4978" />
+
+
 # ¡Hola! Soy Joshua Abraham 👋
 
 **Front-End Developer | Web Designer**  
