@@ -40,7 +40,7 @@ Apasionado por crear experiencias web modernas, accesibles y optimizadas. Concib
 
 ### 📊 Estadísticas de GitHub
 
-![yoshiiistm13 GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshiiistm13&show_icons=true&theme=dark&hide_border=true)
+![yoshiiistm13 GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yoshiiistm13&show_icons=true&theme=dark&hide_border=true)
 ---
 
 > 💡 *"El aprendizaje continuo es la clave para desbloquear nuevos niveles en el código."*
