@@ -40,7 +40,8 @@ Apasionado por crear experiencias web modernas, accesibles y optimizadas. Concib
 
 ### 📊 Estadísticas de GitHub
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yoshiiistm13&theme=dark&hide_border=true)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/m/yoshiiistm13/yoshiiistm13?style=for-the-badge&color=2bbc8a)](https://github.com/yoshiiistm13)
+[![GitHub Repositories](https://img.shields.io/github/repos/total/yoshiiistm13?style=for-the-badge&color=61afef)](https://github.com/yoshiiistm13)
 ---
 
 > 💡 *"El aprendizaje continuo es la clave para desbloquear nuevos niveles en el código."*
